@@ -1,6 +1,6 @@
 ## json-no-escape
 
-set `ensure_ascii=False` by defaullt.
+set `ensure_ascii=False` by default.
 
 Install:
 ```
