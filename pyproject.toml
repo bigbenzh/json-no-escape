@@ -16,8 +16,6 @@ classifiers = [
 ]
 license = "Unlicense"
 license-files = ["LICEN[CS]E*"]
-[tool.setuptools.packages.find]
-where = ["json_no_escape"]
 
 [project.urls]
 Homepage = "https://github.com/bigbenzh/json-no-escape"
