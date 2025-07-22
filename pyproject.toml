@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "json_no_escape"
-version = "0.0.2"
+version = "0.0.3"
 authors = [
   { name="bigbenzh"},
 ]
@@ -20,5 +20,5 @@ license-files = ["LICEN[CS]E*"]
 where = ["json_no_escape"]
 
 [project.urls]
-Homepage = "https://github.com/bigbenzh/json_no_escape"
-Issues = "https://github.com/bigbenzh/json_no_escape/issues"
+Homepage = "https://github.com/bigbenzh/json-no-escape"
+Issues = "https://github.com/bigbenzh/json-no-escape/issues"
